@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FEELBELT",
-    "currentPage": "products.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "studiom4",
       "title": "StudioM4",
@@ -55,31 +55,20 @@
     "sitemapSwitcher": true,
     "siteUrl": "https://buy.feelbelt.de",
     "sitemapSwitcherAuto": "on",
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "opacityOverlay": "80",
-      "text": "We use cookies to give you the best experience. Read our <a href='https://www.feelbelt.de/de/datenschutzbestimmungen/'>cookie policy</a>.",
-      "textButton": "Agree"
-    },
     "PWA": {
       "enabled": true,
       "name": "FEELBELT",
       "icon": "@PROJECT_PATH@/assets/images/feelbelt-icon-web-1-512x512.png",
       "themeColor": "#000000"
     },
-    "site_lang": "de",
+    "site_lang": "en",
     "global_header_custom": "\n<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-PVQTPR3');</script>\n<!-- End Google Tag Manager -->\n\n\n<!-- Facebook Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '2832606960310382');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=2832606960310382&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->",
     "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PVQTPR3\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n",
     "favicon": "@PROJECT_PATH@/assets/images/feelbelt-icon-web-1-128x128.png",
     "gdpr": false,
     "pwa-switcher": true,
-    "global_footer_custom": "<script>\n  window.intercomSettings = {\n    app_id: \"gv1eoarn\"\n  };\n</script>\n\n<script>\n// We pre-filled your app ID in the widget URL: 'https://widget.intercom.io/widget/gv1eoarn'\n(function(){var w=window;var ic=w.Intercom;if(typeof ic===\"function\"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/gv1eoarn';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();\n</script>"
+    "global_footer_custom": "<script>\n  window.intercomSettings = {\n    app_id: \"gv1eoarn\"\n  };\n</script>\n\n<script>\n// We pre-filled your app ID in the widget URL: 'https://widget.intercom.io/widget/gv1eoarn'\n(function(){var w=window;var ic=w.Intercom;if(typeof ic===\"function\"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/gv1eoarn';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();\n</script>",
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
