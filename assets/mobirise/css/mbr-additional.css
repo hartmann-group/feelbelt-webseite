@@ -1398,7 +1398,7 @@ hr {
 }
 .cid-sfzBWNxRZe {
   padding-top: 135px;
-  padding-bottom: 150px;
+  padding-bottom: 45px;
   background-color: #fe2b94;
 }
 .cid-sfzBWNxRZe h1 {
@@ -1498,6 +1498,39 @@ hr {
 .cid-sfzBWNxRZe .mbr-section-title,
 .cid-sfzBWNxRZe .line-title {
   color: #ffffff;
+}
+.cid-sfz1zrhtYp {
+  padding-top: 0px;
+  padding-bottom: 75px;
+  background-color: #fe2b94;
+}
+@media (max-width: 767px) {
+  .cid-sfz1zrhtYp .col-sm-6 {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+  .cid-sfz1zrhtYp .card {
+    margin-bottom: 2rem;
+  }
+}
+@media (min-width: 767px) and (max-width: 992px) {
+  .cid-sfz1zrhtYp .card {
+    margin-bottom: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sfz1zrhtYp .card-wrapper {
+    padding: 0 1.5rem;
+  }
+}
+@media (min-width: 767px) {
+  .cid-sfz1zrhtYp .row {
+    margin: 0;
+  }
+}
+.cid-sfz1zrhtYp .container {
+  border-top: 1px solid #ebebeb;
+  padding-top: 2rem;
 }
 .cid-sfzbMc30DV {
   padding-top: 135px;
@@ -1602,41 +1635,8 @@ hr {
 .cid-sfzbMc30DV .line-title {
   color: #ffffff;
 }
-.cid-sfz1zrhtYp {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #000000;
-}
-@media (max-width: 767px) {
-  .cid-sfz1zrhtYp .col-sm-6 {
-    flex: 0 0 33.333333%;
-    max-width: 33.333333%;
-  }
-  .cid-sfz1zrhtYp .card {
-    margin-bottom: 2rem;
-  }
-}
-@media (min-width: 767px) and (max-width: 992px) {
-  .cid-sfz1zrhtYp .card {
-    margin-bottom: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sfz1zrhtYp .card-wrapper {
-    padding: 0 1.5rem;
-  }
-}
-@media (min-width: 767px) {
-  .cid-sfz1zrhtYp .row {
-    margin: 0;
-  }
-}
-.cid-sfz1zrhtYp .container {
-  border-top: 1px solid #ebebeb;
-  padding-top: 2rem;
-}
 .cid-sfA22ykAAq {
-  background-color: #0000fe;
+  background-image: url("../../../assets/images/feelbelt-madeinberlin-1-1024x614.jpg");
 }
 .cid-sfA22ykAAq .mbr-text {
   margin-bottom: 3.2rem;
@@ -1645,97 +1645,6 @@ hr {
   .cid-sfA22ykAAq .align-center {
     text-align: center;
   }
-}
-.cid-sfzSG5cNJG {
-  padding-top: 150px;
-  padding-bottom: 150px;
-  background-image: url("../../../assets/images/feelgame-1024x683.jpg");
-}
-.cid-sfzSG5cNJG .carousel {
-  z-index: 2;
-  position: relative;
-}
-.cid-sfzSG5cNJG .user {
-  padding: 0 !important;
-}
-.cid-sfzSG5cNJG .user_image {
-  width: 70px;
-  height: 70px;
-  overflow: hidden;
-  border-radius: 50%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 1.8rem;
-  border: 1px solid lightgray;
-  position: relative;
-}
-.cid-sfzSG5cNJG .user_image img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-sfzSG5cNJG .carousel-item {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-sfzSG5cNJG .carousel-item.active,
-.cid-sfzSG5cNJG .carousel-item-next,
-.cid-sfzSG5cNJG .carousel-item-prev {
-  display: flex;
-}
-.cid-sfzSG5cNJG .user_name {
-  margin: 0;
-  color: #ffffff;
-}
-.cid-sfzSG5cNJG .carousel-controls a {
-  font-size: 2rem;
-}
-.cid-sfzSG5cNJG .carousel-controls a span {
-  position: absolute;
-  transition: opacity 0.3s;
-  top: 70px;
-  padding: 10px;
-  border-radius: 50%;
-  color: #ffffff;
-  background: transparent;
-  opacity: 0.5;
-}
-.cid-sfzSG5cNJG .carousel-controls a:hover span {
-  opacity: 1;
-  cursor: pointer;
-}
-.cid-sfzSG5cNJG ol {
-  margin-bottom: 0;
-  bottom: -2.2rem;
-}
-.cid-sfzSG5cNJG .carousel-indicators li {
-  width: 10px;
-  height: 10px;
-  margin: auto 7px;
-  border: none;
-  background: #ffffff;
-  transition: all 0.3s;
-  border-radius: 50%;
-  opacity: 0.5;
-  position: relative;
-}
-.cid-sfzSG5cNJG .carousel-indicators li:hover {
-  opacity: 1;
-}
-.cid-sfzSG5cNJG .carousel-indicators .active {
-  opacity: 1;
-  width: 12px;
-  height: 12px;
-}
-.cid-sfzSG5cNJG .user_status {
-  color: #767676;
-}
-.cid-sfzSG5cNJG .title {
-  color: #ffffff;
-  margin-bottom: 3.8rem;
-}
-.cid-sfzSG5cNJG .mbr-text {
-  margin-bottom: 1.7rem;
 }
 .cid-sfz2l9NgNs {
   padding-top: 30px;
