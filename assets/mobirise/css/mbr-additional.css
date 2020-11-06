@@ -1635,6 +1635,17 @@ hr {
   border-top: 1px solid #ebebeb;
   padding-top: 2rem;
 }
+.cid-sfA22ykAAq {
+  background-color: #0000fe;
+}
+.cid-sfA22ykAAq .mbr-text {
+  margin-bottom: 3.2rem;
+}
+@media (max-width: 767px) {
+  .cid-sfA22ykAAq .align-center {
+    text-align: center;
+  }
+}
 .cid-sfzSG5cNJG {
   padding-top: 150px;
   padding-bottom: 150px;
