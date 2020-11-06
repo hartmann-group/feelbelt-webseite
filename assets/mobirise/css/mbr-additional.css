@@ -1111,6 +1111,9 @@ hr {
     padding-right: 2rem;
   }
 }
+.cid-sfyGYsSR1U {
+  background-image: url("../../../assets/images/cheerful-woman-in-vr-headset-4lhdcbf-1920x1281.jpg");
+}
 .cid-sfyGYsSR1U .mbr-section-title {
   margin-bottom: 1.8rem;
 }
@@ -1467,6 +1470,109 @@ hr {
 .cid-sfz7xGiPBy .media-content,
 .cid-sfz7xGiPBy .mbr-section-title,
 .cid-sfz7xGiPBy .line-title {
+  color: #ffffff;
+}
+.cid-sfzbMc30DV {
+  padding-top: 135px;
+  padding-bottom: 150px;
+  background-color: #fe2b94;
+}
+.cid-sfzbMc30DV h1 {
+  margin-bottom: 0.2rem;
+}
+.cid-sfzbMc30DV .container-fluid {
+  padding: 0;
+}
+.cid-sfzbMc30DV img {
+  height: 100%;
+  object-fit: cover;
+  position: relative;
+  z-index: 10;
+}
+.cid-sfzbMc30DV .mbr-figure {
+  height: 100%;
+}
+.cid-sfzbMc30DV .col-lg-6 {
+  padding: 0;
+}
+.cid-sfzbMc30DV .mbr-text {
+  color: #747474;
+}
+.cid-sfzbMc30DV hr {
+  width: 40px;
+  height: 2px;
+  top: -1rem;
+}
+.cid-sfzbMc30DV .mbr-section-subtitle {
+  margin-bottom: 3.5rem;
+}
+.cid-sfzbMc30DV .mbr-section-subtitle-1 {
+  color: #0000fe;
+}
+.cid-sfzbMc30DV .mbr-section-subtitle-2 {
+  margin-top: 4.2rem;
+  color: #ffffff;
+}
+.cid-sfzbMc30DV .mbr-figure::after {
+  content: '';
+  background-color: #fe2b94;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  bottom: -20px;
+  right: -5px;
+  z-index: 1;
+}
+@media (max-width: 992px) {
+  .cid-sfzbMc30DV .mbr-figure::after {
+    bottom: -15px;
+    right: 0px;
+  }
+}
+@media (min-width: 767px) {
+  .cid-sfzbMc30DV .row {
+    margin: 0;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sfzbMc30DV .media-content {
+    padding-left: 2.2rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-sfzbMc30DV .left-block {
+    margin-top: 4.5rem;
+  }
+}
+.cid-sfzbMc30DV .btn {
+  color: #101010 !important;
+}
+.cid-sfzbMc30DV .btn:hover {
+  color: #ffffff !important;
+}
+.cid-sfzbMc30DV .line-title {
+  width: 40px;
+  height: 2px;
+  background-color: #fe2b94;
+  margin-bottom: 1.2rem;
+  display: inline-block;
+}
+.cid-sfzbMc30DV .vertical-line:before {
+  content: '';
+  background-color: #fe2b94;
+  height: 60px;
+  width: 2px;
+  position: absolute;
+  top: -30px;
+  left: 50%;
+}
+.cid-sfzbMc30DV .mbr-text,
+.cid-sfzbMc30DV .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-sfzbMc30DV .media-content,
+.cid-sfzbMc30DV .mbr-section-title,
+.cid-sfzbMc30DV .line-title {
   color: #ffffff;
 }
 .cid-sfz95lt1qS {
